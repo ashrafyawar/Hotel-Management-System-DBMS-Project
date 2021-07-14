@@ -1,6 +1,6 @@
 import mysql.connector
 
-mybd = mysql.connector.connect(host  ="localhost",user = "root",passwd = "Ash.44raf",)
+mybd = mysql.connector.connect(host  ="localhost",user = "root",)
 
 my_cursor = mybd.cursor()
 # my_cursor.execute("CREATE DATABASE HOTEL_MANAGEMENT_SYSTEM")
