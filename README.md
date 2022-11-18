@@ -23,6 +23,6 @@
 - MySQL --> https://www.mysql.com/
 
 ## How To Test:
-  - Run main.py file or Download main.exe and execute
+  - Run database.py file
 
 ### Project Implementation And Explanation: https://www.youtube.com/watch?v=xR4YtGe8Rp4&ab_channel=AshrafYawar
